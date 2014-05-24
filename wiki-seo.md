@@ -18,5 +18,3 @@ Currently we have several types of SEO links.
    RewriteRule ^jobs/(.+)$ /jobs/SearchResults.aspx?seo=$1 [NC,L]
    ```
 7. Configure Seo Browse-tree `/sitecore/content/Customers/Great Britain/Kent/Kent/FrontPage/Seo Browse-tree`. This is needed for correct work of search facets on SEO search results. `URL value` you can find in SQL queries, which we got above (#3).
-8. New changes
-9. xcdds
